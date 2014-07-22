@@ -1,0 +1,16 @@
+{
+  "name": "lookup",
+  "version": "0.0.1",
+  "description": "Do a domain lookup every word in the OS X dictionary",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "whoisjs": "0.0.7",
+    "q": "1.0.1",
+    "underscore": "1.6.0"
+  },
+  "license": "MIT"
+}
